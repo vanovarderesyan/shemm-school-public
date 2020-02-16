@@ -1,0 +1,277 @@
+{
+    "auth": {
+        "loginSuccess": "Login successful.",
+        "logoutSuccess": "Logout successful.",
+        "invalidCredentials": "Invalid Credentials",
+        "accessTokenRefreshed": "Access token refreshed successfully."
+    },
+    "users": {
+        "insert": "User inserted successfully.",
+        "fetch": "User detail fetched successfully.",
+        "delete": "User removed successfully.",
+        "fetchAll": "List of users.",
+        "me": "Your data",
+        "update": "your data update successfully"
+    },
+    "bank": {
+        "fetchAll": "List of banks.",
+        "insert": "Banks inserted successfully.",
+        "fetch": "Bank detail fetched successfully.",
+        "delete": "Bank removed successfully."
+    },
+    "bankBranche": {
+        "fetchAll": "List of bank branche .",
+        "insert": "Banks branche inserted successfully.",
+        "fetch": "Banks branche detail fetched successfully.",
+        "delete": "Banks branche removed successfully."
+    },
+    "billingMethod": {
+        "fetchAll": "List of billing method.",
+        "insert": "Billing method inserted successfully.",
+        "fetch": "Billing method detail fetched successfully.",
+        "delete": "Billing method removed successfully.",
+        "count": "count all Billing method",
+        "edit": "Billing method update successfully."
+    },
+    "classification": {
+        "fetchAll": "List of classification.",
+        "insert": "Classification method inserted successfully.",
+        "fetch": "Classification method detail fetched successfully.",
+        "delete": "Classification method removed successfully.",
+        "edit": "classification update successfully.",
+
+        "count": "count alll classification"
+
+    },
+    "materialValue": {
+        "fetchAll": "List of material value.",
+        "insert": "Material value method inserted successfully.",
+        "fetch": "Material value method detail fetched successfully.",
+        "delete": "Material value method removed successfully.",
+        "count": "count alll materialValue",
+        "edit": "materialValue update successfully."
+    },
+
+    "materialValueGroup": {
+        "fetchAll": "List of material value  group .",
+        "insert": "Material value  group  method inserted successfully.",
+        "fetch": "Material value  group method detail fetched successfully.",
+        "delete": "Material value  group method removed successfully.",
+        "count": "count alll materialValue",
+        "edit": "materialValue group  update successfully."
+    },
+    "warehouse": {
+        "fetchAll": "List of material warehouse.",
+        "insert": "Warehouse value method inserted successfully.",
+        "fetch": "Warehouse value method detail fetched successfully.",
+        "delete": "Warehouse value method removed successfully.",
+        "edit": "warehouse update successfully.",
+        "count": "count alll Warehouse"
+
+    },
+    "serviceType": {
+        "fetchAll": "List of material service type.",
+        "insert": "Service type value method inserted successfully.",
+        "fetch": "Service type value method detail fetched successfully.",
+        "delete": "Service type value method removed successfully."
+    },
+    "serviceName": {
+        "fetchAll": "List of material service name.",
+        "insert": "Service name value method inserted successfully.",
+        "fetch": "Service name value method detail fetched successfully.",
+        "delete": "Service name value method removed successfully."
+    },
+    "billingAccount": {
+        "fetchAll": "List of Billing Accounts.",
+        "insert": "Billing Account inserted successfully.",
+        "fetch": "Billing Account detail fetched successfully.",
+        "delete": "Billing Account removed successfully.",
+        "count": "count all Billing Account",
+        "edit": "Billing Account update successfully."
+
+
+    },
+    "subdivision": {
+        "fetchAll": "List of Subdivisions.",
+        "insert": "Subdivision inserted successfully.",
+        "fetch": "Subdivision detail fetched successfully.",
+        "delete": "Subdivision removed successfully.",
+        "edit": "subdivision update successfully.",
+        "count": "count alll subdivision"
+
+    },
+    "measurementUnit": {
+        "fetchAll": "List of Measurement Units.",
+        "insert": "Measurement Unit inserted successfully.",
+        "fetch": "Measurement Unit detail fetched successfully.",
+        "delete": "Measurement Unit removed successfully.",
+        "edit": "Measurement update successfully.",
+
+        "count": "count alll Measurement"
+
+    },
+    "coWorkers": {
+        "fetchAll": "List of CoWorkers",
+        "insert": "CoWorkers inserted successfully.",
+        "fetch": "CoWorkers detail fetched successfully.",
+        "delete": "CoWorkers removed successfully."
+    },
+    "position": {
+        "fetchAll": "List of Positions",
+        "insert": "Position inserted successfully.",
+        "fetch": "Position detail fetched successfully.",
+        "delete": "Position removed successfully."
+    },
+    "profession": {
+        "fetchAll": "List of profession",
+        "insert": "profession inserted successfully.",
+        "fetch": "profession detail fetched successfully.",
+        "delete": "profession removed successfully.",
+        "edit": "profession update successfully."
+
+    },
+    "expenseAccount": {
+        "fetchAll": "List of expense account",
+        "insert": "expense account inserted successfully.",
+        "fetch": "expense account detail fetched successfully.",
+        "delete": "expense account removed successfully.",
+        "edit": "expense account update successfully.",
+        "count": "count alll type of expense "
+
+    },
+    "typeOfIncome": {
+        "fetchAll": "List of expense type of income",
+        "insert": "type of income inserted successfully.",
+        "fetch": "type of income detail fetched successfully.",
+        "delete": "type of income removed successfully.",
+        "edit": "type of income update successfully.",
+        "count": "count alll type of income "
+
+    },
+    "typeOfVacation": {
+        "fetchAll": "List of expense type of vacation",
+        "insert": "type of vacation inserted successfully.",
+        "fetch": "type of vacation detail fetched successfully.",
+        "delete": "type of vacation removed successfully.",
+        "edit": "type of vacation update successfully."
+    },
+    "addition": {
+        "fetchAll": "List of expense addition",
+        "insert": "addition inserted successfully.",
+        "fetch": "addition detail fetched successfully.",
+        "delete": "addition removed successfully.",
+        "edit": "addition update successfully."
+    },
+    "tabel": {
+        "fetchAll": "List of expense tabel",
+        "insert": "tabel inserted successfully.",
+        "fetch": "tabel detail fetched successfully.",
+        "delete": "tabel removed successfully.",
+        "edit": "tabel update successfully.",
+        "count": "count alll tabel"
+    },
+    "employee": {
+        "fetchAll": "List of expense employee",
+        "insert": "employee inserted successfully.",
+        "fetch": "employee detail fetched successfully.",
+        "delete": "employee removed successfully.",
+        "edit": "employee update successfully.",
+        "count": "count all employee"
+    },
+    "contract": {
+        "fetchAll": "contract of expense employee",
+        "insert": "contract inserted successfully.",
+        "fetch": "contract detail fetched successfully.",
+        "delete": "contract removed successfully.",
+        "edit": "contract update successfully.",
+        "count": "count all contract"
+    },
+    "group": {
+        "fetchAll": "group of expense employee",
+        "insert": "group inserted successfully.",
+        "fetch": "group detail fetched successfully.",
+        "delete": "group removed successfully.",
+        "edit": "group update successfully.",
+        "count": "count all group"
+    },
+    "headPosition": {
+        "fetchAll": "headPosition of expense employee",
+        "insert": "headPosition inserted successfully.",
+        "fetch": "headPosition detail fetched successfully.",
+        "delete": "headPosition removed successfully.",
+        "edit": "headPosition update successfully.",
+        "count": "count all headPosition"
+    },
+    "accountantPosition": {
+        "fetchAll": "accountantPosition of expense employee",
+        "insert": "accountantPosition inserted successfully.",
+        "fetch": "accountantPosition detail fetched successfully.",
+        "delete": "accountantPosition removed successfully.",
+        "edit": "accountantPosition update successfully.",
+        "count": "count all accountantPosition"
+    },
+    "partners": {
+        "fetchAll": "partners of expense employee",
+        "insert": "partners inserted successfully.",
+        "fetch": "partners detail fetched successfully.",
+        "delete": "partners removed successfully.",
+        "edit": "partners update successfully.",
+        "count": "count all partners"
+    },
+    "currency": {
+        "fetchAll": "Currency of expense employee",
+        "insert": "Currency inserted successfully.",
+        "fetch": "Currency detail fetched successfully.",
+        "delete": "Currency removed successfully.",
+        "edit": "Currency update successfully.",
+        "count": "count all currency"
+    },
+    "calculationsType": {
+        "fetchAll": "CalculationsType of expense employee",
+        "insert": "CalculationsType inserted successfully.",
+        "fetch": "CalculationsType detail fetched successfully.",
+        "delete": "CalculationsType removed successfully.",
+        "edit": "CalculationsType update successfully.",
+        "count": "count all CalculationsType"
+    },
+    "accountOfEmplCalculations": {
+        "fetchAll": "AccountOfEmplCalculations of expense employee",
+        "insert": "AccountOfEmplCalculations inserted successfully.",
+        "fetch": "AccountOfEmplCalculations detail fetched successfully.",
+        "delete": "AccountOfEmplCalculations removed successfully.",
+        "edit": "AccountOfEmplCalculations update successfully.",
+        "count": "count all AccountOfEmplCalculations"
+    },
+    "analiticGroup1": {
+        "fetchAll": "analiticGroup1 of expense employee",
+        "insert": "analiticGroup1 inserted successfully.",
+        "fetch": "analiticGroup1 detail fetched successfully.",
+        "delete": "analiticGroup1 removed successfully.",
+        "edit": "analiticGroup1 update successfully.",
+        "count": "count all analiticGroup1"
+    },
+    "analiticGroup2": {
+        "fetchAll": "analiticGroup2 of expense employee",
+        "insert": "analiticGroup2 inserted successfully.",
+        "fetch": "analiticGroup2 detail fetched successfully.",
+        "delete": "analiticGroup2 removed successfully.",
+        "edit": "analiticGroup2 update successfully.",
+        "count": "count all analiticGroup2"
+    },
+    "subsection": {
+        "fetchAll": "subsection of expense employee",
+        "insert": "subsection inserted successfully.",
+        "fetch": "subsection detail fetched successfully.",
+        "delete": "subsection removed successfully.",
+        "edit": "subsection update successfully.",
+        "count": "count all subsection"
+    },
+    "typesOfActions": {
+        "fetchAll": "typesOfActions of expense employee",
+        "insert": "typesOfActions inserted successfully.",
+        "fetch": "typesOfActions detail fetched successfully.",
+        "delete": "typesOfActions removed successfully.",
+        "edit": "typesOfActions update successfully.",
+        "count": "count all typesOfActions"
+    }
+}
